@@ -1,0 +1,26 @@
+{
+  "name": "name",
+  "version": "0.1.1",
+  "description": "Description",
+  "private": true,
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "ts-node src/main.ts",
+    "lint": "eslint . --ext .js,.ts"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "@typescript-eslint/eslint-plugin": "^3.5.0",
+    "@typescript-eslint/parser": "^3.5.0",
+    "@zeit/ncc": "^0.22.3",
+    "eslint": "^7.3.1",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  }
+}
