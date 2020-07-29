@@ -9,7 +9,10 @@
     "lint": "eslint . --ext .js,.ts"
   },
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "rss-parser": "^3.9.0",
+    "simple-oauth2": "^4.1.0",
+    "wakatime-client": "^2.6.0"
   },
   "devDependencies": {
     "@types/node": "^14.0.13",

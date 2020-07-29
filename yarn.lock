@@ -23,6 +23,67 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
+"@hapi/address@^4.0.1":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@hapi/address/download/@hapi/address-4.1.0.tgz?cache=0&sync_timestamp=1593993832157&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Faddress%2Fdownload%2F%40hapi%2Faddress-4.1.0.tgz#d60c5c0d930e77456fdcde2598e77302e2955e1d"
+  integrity sha1-1gxcDZMOd0Vv3N4lmOdzAuKVXh0=
+  dependencies:
+    "@hapi/hoek" "^9.0.0"
+
+"@hapi/boom@9.x.x":
+  version "9.1.0"
+  resolved "https://registry.npm.taobao.org/@hapi/boom/download/@hapi/boom-9.1.0.tgz#0d9517657a56ff1e0b42d0aca9da1b37706fec56"
+  integrity sha1-DZUXZXpW/x4LQtCsqdobN3Bv7FY=
+  dependencies:
+    "@hapi/hoek" "9.x.x"
+
+"@hapi/bourne@2.x.x":
+  version "2.0.0"
+  resolved "https://registry.npm.taobao.org/@hapi/bourne/download/@hapi/bourne-2.0.0.tgz?cache=0&sync_timestamp=1593915150444&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Fbourne%2Fdownload%2F%40hapi%2Fbourne-2.0.0.tgz#5bb2193eb685c0007540ca61d166d4e1edaf918d"
+  integrity sha1-W7IZPraFwAB1QMph0WbU4e2vkY0=
+
+"@hapi/formula@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.npm.taobao.org/@hapi/formula/download/@hapi/formula-2.0.0.tgz?cache=0&sync_timestamp=1593915889985&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Fformula%2Fdownload%2F%40hapi%2Fformula-2.0.0.tgz#edade0619ed58c8e4f164f233cda70211e787128"
+  integrity sha1-7a3gYZ7VjI5PFk8jPNpwIR54cSg=
+
+"@hapi/hoek@9.x.x", "@hapi/hoek@^9.0.0", "@hapi/hoek@^9.0.4":
+  version "9.0.4"
+  resolved "https://registry.npm.taobao.org/@hapi/hoek/download/@hapi/hoek-9.0.4.tgz?cache=0&sync_timestamp=1593915910245&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Fhoek%2Fdownload%2F%40hapi%2Fhoek-9.0.4.tgz#e80ad4e8e8d2adc6c77d985f698447e8628b6010"
+  integrity sha1-6ArU6OjSrcbHfZhfaYRH6GKLYBA=
+
+"@hapi/joi@^17.1.1":
+  version "17.1.1"
+  resolved "https://registry.npm.taobao.org/@hapi/joi/download/@hapi/joi-17.1.1.tgz?cache=0&sync_timestamp=1595023381050&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Fjoi%2Fdownload%2F%40hapi%2Fjoi-17.1.1.tgz#9cc8d7e2c2213d1e46708c6260184b447c661350"
+  integrity sha1-nMjX4sIhPR5GcIxiYBhLRHxmE1A=
+  dependencies:
+    "@hapi/address" "^4.0.1"
+    "@hapi/formula" "^2.0.0"
+    "@hapi/hoek" "^9.0.0"
+    "@hapi/pinpoint" "^2.0.0"
+    "@hapi/topo" "^5.0.0"
+
+"@hapi/pinpoint@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.npm.taobao.org/@hapi/pinpoint/download/@hapi/pinpoint-2.0.0.tgz#805b40d4dbec04fc116a73089494e00f073de8df"
+  integrity sha1-gFtA1NvsBPwRanMIlJTgDwc96N8=
+
+"@hapi/topo@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.npm.taobao.org/@hapi/topo/download/@hapi/topo-5.0.0.tgz?cache=0&sync_timestamp=1593916080558&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40hapi%2Ftopo%2Fdownload%2F%40hapi%2Ftopo-5.0.0.tgz#c19af8577fa393a06e9c77b60995af959be721e7"
+  integrity sha1-wZr4V3+jk6BunHe2CZWvlZvnIec=
+  dependencies:
+    "@hapi/hoek" "^9.0.0"
+
+"@hapi/wreck@^17.0.0":
+  version "17.0.0"
+  resolved "https://registry.npm.taobao.org/@hapi/wreck/download/@hapi/wreck-17.0.0.tgz#8ab0ca286e937c3f7a82f67e4be4348c824b743c"
+  integrity sha1-irDKKG6TfD96gvZ+S+Q0jIJLdDw=
+  dependencies:
+    "@hapi/boom" "9.x.x"
+    "@hapi/bourne" "2.x.x"
+    "@hapi/hoek" "9.x.x"
+
 "@types/color-name@^1.1.1":
   version "1.1.1"
   resolved "https://registry.npm.taobao.org/@types/color-name/download/@types/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
@@ -302,6 +363,11 @@ enquirer@^2.3.5:
   integrity sha1-Kn/l3WNKHkElqXXsmU/1RW3Dc00=
   dependencies:
     ansi-colors "^4.1.1"
+
+entities@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.npm.taobao.org/entities/download/entities-2.0.3.tgz#5c487e5742ab93c15abb5da22759b8590ec03b7f"
+  integrity sha1-XEh+V0Krk8Fau12iJ1m4WQ7AO38=
 
 escape-string-regexp@^1.0.5:
   version "1.0.5"
@@ -734,6 +800,19 @@ rimraf@2.6.3:
   dependencies:
     glob "^7.1.3"
 
+rss-parser@^3.9.0:
+  version "3.9.0"
+  resolved "https://registry.npm.taobao.org/rss-parser/download/rss-parser-3.9.0.tgz#469a1201619d155e902b073c4f495c589943085a"
+  integrity sha1-RpoSAWGdFV6QKwc8T0lcWJlDCFo=
+  dependencies:
+    entities "^2.0.3"
+    xml2js "^0.4.19"
+
+sax@>=0.6.0:
+  version "1.2.4"
+  resolved "https://registry.npm.taobao.org/sax/download/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
+  integrity sha1-KBYjTiN4vdxOU1T6tcqold9xANk=
+
 semver@^7.2.1, semver@^7.3.2:
   version "7.3.2"
   resolved "https://registry.npm.taobao.org/semver/download/semver-7.3.2.tgz?cache=0&sync_timestamp=1586886255699&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsemver%2Fdownload%2Fsemver-7.3.2.tgz#604962b052b81ed0786aae84389ffba70ffd3938"
@@ -750,6 +829,16 @@ shebang-regex@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npm.taobao.org/shebang-regex/download/shebang-regex-3.0.0.tgz#ae16f1644d873ecad843b0307b143362d4c42172"
   integrity sha1-rhbxZE2HPsrYQ7AwexQzYtTEIXI=
+
+simple-oauth2@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/simple-oauth2/download/simple-oauth2-4.1.0.tgz#b531e2c94e7d9ba165ad98cdfca7549e8557bdf7"
+  integrity sha1-tTHiyU59m6FlrZjN/KdUnoVXvfc=
+  dependencies:
+    "@hapi/hoek" "^9.0.4"
+    "@hapi/joi" "^17.1.1"
+    "@hapi/wreck" "^17.0.0"
+    debug "^4.1.1"
 
 slice-ansi@^2.1.0:
   version "2.1.0"
@@ -887,6 +976,11 @@ v8-compile-cache@^2.0.3:
   resolved "https://registry.npm.taobao.org/v8-compile-cache/download/v8-compile-cache-2.1.1.tgz#54bc3cdd43317bca91e35dcaf305b1a7237de745"
   integrity sha1-VLw83UMxe8qR413K8wWxpyN950U=
 
+wakatime-client@^2.6.0:
+  version "2.6.0"
+  resolved "https://registry.npm.taobao.org/wakatime-client/download/wakatime-client-2.6.0.tgz#4210f1c48044707b3d0f45102601529562cd1610"
+  integrity sha1-QhDxxIBEcHs9D0UQJgFSlWLNFhA=
+
 which@^2.0.1:
   version "2.0.2"
   resolved "https://registry.npm.taobao.org/which/download/which-2.0.2.tgz#7c6a8dd0a636a0327e10b59c9286eee93f3f51b1"
@@ -910,6 +1004,19 @@ write@1.0.3:
   integrity sha1-CADhRSO5I6OH5BUSPIZWFqrg9cM=
   dependencies:
     mkdirp "^0.5.1"
+
+xml2js@^0.4.19:
+  version "0.4.23"
+  resolved "https://registry.npm.taobao.org/xml2js/download/xml2js-0.4.23.tgz?cache=0&sync_timestamp=1576778216906&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fxml2js%2Fdownload%2Fxml2js-0.4.23.tgz#a0c69516752421eb2ac758ee4d4ccf58843eac66"
+  integrity sha1-oMaVFnUkIesqx1juTUzPWIQ+rGY=
+  dependencies:
+    sax ">=0.6.0"
+    xmlbuilder "~11.0.0"
+
+xmlbuilder@~11.0.0:
+  version "11.0.1"
+  resolved "https://registry.npm.taobao.org/xmlbuilder/download/xmlbuilder-11.0.1.tgz#be9bae1c8a046e76b31127726347d0ad7002beb3"
+  integrity sha1-vpuuHIoEbnazESdyY0fQrXACvrM=
 
 yn@3.1.1:
   version "3.1.1"

@@ -1,0 +1,26 @@
+name: CI
+on:
+  push:
+    branches: [ build ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: build
+    - uses: bahmutov/npm-install@v1
+    - name: Build
+      run: yarn run build
+      env:
+        WAKATIME_KEY: ${{ secrets.WAKATIME_KEY }}
+    - name: Commit
+      uses: s0/git-publish-subdir-action@v2.3.0
+      env:
+        REPO: self
+        BRANCH: master
+        FOLDER: dist
+        GITHUB_TOKEN: ${{ secrets.COMMIT_TOKEN }}
