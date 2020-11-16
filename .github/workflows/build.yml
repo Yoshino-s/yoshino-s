@@ -19,10 +19,13 @@ jobs:
       run: yarn run build
       env:
         WAKATIME_KEY: ${{ secrets.WAKATIME_KEY }}
-    - name: Commit
-      uses: s0/git-publish-subdir-action@v2.3.0
-      env:
-        REPO: self
-        BRANCH: master
-        FOLDER: dist
-        GITHUB_TOKEN: ${{ secrets.COMMIT_TOKEN }}
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
