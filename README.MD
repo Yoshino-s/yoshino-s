@@ -18,16 +18,16 @@
 ### 🌐 Languages
 
 ```plain
-Python     6 hrs 56 mins ████████████████████ 56.0%
-TypeScript  1 hr 37 mins ████▋                13.2%
-C           1 hr 25 mins ████                 11.5%
-Other            33 mins █▌                    4.5%
-HTML             18 mins ▊                     2.4%
-C#               17 mins ▊                     2.3%
-Jinja2           15 mins ▊                     2.1%
-PHP              14 mins ▋                     1.9%
-Docker            8 mins ▍                     1.2%
-JSON              7 mins ▎                     1.0%
+Python      6 hrs 56 mins ████████████████████ 35.6%
+TypeScript  4 hrs 34 mins █████████████▏       23.4%
+C++         2 hrs 56 mins ████████▍            15.1%
+C            1 hr 30 mins ████▎                 7.7%
+Other             47 mins ██▎                   4.0%
+JSON              38 mins █▊                    3.3%
+JavaScript        33 mins █▋                    2.9%
+HTML              17 mins ▊                     1.5%
+C#                17 mins ▊                     1.5%
+Jinja2            15 mins ▊                     1.4%
 ```
 
   </td>
