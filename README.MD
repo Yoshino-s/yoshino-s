@@ -18,16 +18,16 @@
 ### 🌐 Languages
 
 ```plain
-Python     10 hrs 57 mins ████████████████████ 39.6%
-TypeScript  9 hrs 59 mins ██████████████████▏  36.1%
-C++         2 hrs 56 mins █████▎               10.6%
-XML           1 hr 6 mins ██                    4.0%
-JSON              47 mins █▍                    2.9%
-JavaScript        40 mins █▏                    2.4%
-Other             23 mins ▋                     1.4%
-C                 18 mins ▌                     1.1%
-RPMSpec           14 mins ▍                     0.9%
-Text               9 mins ▎                     0.6%
+TypeScript  12 hrs 23 mins ████████████████████ 43.0%
+Python       9 hrs 22 mins ███████████████▏     32.5%
+C++          2 hrs 56 mins ████▋                10.2%
+XML            1 hr 6 mins █▊                    3.8%
+JavaScript         53 mins █▍                    3.1%
+JSON               52 mins █▍                    3.0%
+Other              23 mins ▋                     1.4%
+C                  18 mins ▌                     1.1%
+RPMSpec            14 mins ▍                     0.9%
+Text                9 mins ▎                     0.6%
 ```
 
   </td>
