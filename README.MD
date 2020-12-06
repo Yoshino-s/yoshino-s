@@ -18,16 +18,16 @@
 ### 🌐 Languages
 
 ```plain
-TypeScript  7 hrs 24 mins ████████████████████ 64.1%
-JSON         1 hr 19 mins ███▌                 11.5%
-C                 59 mins ██▋                   8.6%
-JavaScript        32 mins █▍                    4.6%
-Other             26 mins █▏                    3.8%
-YAML              17 mins ▊                     2.5%
-Text              11 mins ▌                     1.7%
-Python            10 mins ▍                     1.6%
-Docker             4 mins ▏                     0.6%
-XML                2 mins                       0.3%
+TypeScript  5 hrs 52 mins ████████████████████ 60.8%
+JSON          1 hr 8 mins ███▉                 11.8%
+C                 59 mins ███▍                 10.3%
+JavaScript        32 mins █▊                    5.5%
+Other             25 mins █▍                    4.4%
+YAML              14 mins ▊                     2.5%
+Text              11 mins ▋                     2.1%
+Python            10 mins ▌                     1.8%
+XML                2 mins                       0.4%
+Makefile            1 min                       0.3%
 ```
 
   </td>
