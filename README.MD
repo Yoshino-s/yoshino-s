@@ -9,20 +9,18 @@
 <tr>
   <td valign="top" width="50%">
 
-### 📅 Daily Spent
-![](https://wakatime.com/share/@Yoshino_s/6fb340e9-ed62-4d93-9ad3-5aeb9d2d5dfb.svg)
+### 🐞 CVEs
+
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation) [CVE-2021-21315](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21315)
 
   </td>
   <td valign="top" width="50%">
 
-### 🌐 Languages
+### 🏘️ Team
 
-```plain
-
-```
+[![w&m](https://wm-team.cn/member_icon/logo.png)](https://wm-team.cn/)
 
   </td>
-</tr>
 <tr>
   <td valign="top" width="50%">
 
