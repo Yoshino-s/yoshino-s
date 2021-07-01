@@ -12,7 +12,7 @@
 ### 🐞 CVEs
 
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) [CVE-2021-21315](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21315)
-- [thinkjs](https://github.com/thinkjs/think-helper) [CVE-2021-32736](https://github.com/thinkjs/think-helper/security/advisories/GHSA-vr5m-3h59-7jcp)
+- [thinkjs](https://github.com/thinkjs/think-helper) [CVE-2021-32736](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32736)
 
   </td>
   <td valign="top" width="50%">
