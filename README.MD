@@ -25,13 +25,9 @@
 <tr>
   <td valign="top" width="50%">
 
-### 🚩 Competition Writeup
+### 🚩 Statue
 
-- [CBCTF Misc和部分Web Writeup           ](https://zhuanlan.zhihu.com/p/164896822)
-- [Writeup for DozerCTF by Metasequoia](https://zhuanlan.zhihu.com/p/148763144)
-- [BJDCTF2nd-Web Writeup              ](https://zhuanlan.zhihu.com/p/115462788)
-- [XCTF高校战“疫”网络安全分享赛Misc Writeup      ](https://zhuanlan.zhihu.com/p/111862965)
-- [V&N2020 公开赛Misc Writeup            ](https://zhuanlan.zhihu.com/p/110114375)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=yoshino-s&api_domain=waka.yoshino-s.online&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
   </td>
   <td valign="top" width="50%">
