@@ -1,50 +1,26 @@
 ## Who am I
 
-一位啥都不怎么会的CTFer，`Metasequoia战队` 与 `W&M战队` 成员。目前就读于华东师范大学软件工程本科二年级。
+一位啥都不怎么会的CTFer，W&M战队 成员。目前就读于华东师范大学软件工程本科三年级。
+
+Blog: https://blog.yoshino-s.online/
 
 ## 🔨 What did I did?
 
 <!-- 事实上一直在咕咕咕 -->
-<table width="100%">
-<tr>
-  <td valign="top" width="50%">
 
-### 📅 Daily Spent
-![](https://wakatime.com/share/@Yoshino_s/6fb340e9-ed62-4d93-9ad3-5aeb9d2d5dfb.svg)
+### 🐞 CVEs
 
-  </td>
-  <td valign="top" width="50%">
+CVE-2018-5771 Tenda AC6 Remote Command Execution  
+CVE-2021-21315 systeminformation Command Injection  
+CVE-2021-32736 thinkjs Prototype Pollution  
+CVE-2021-3918 json-schema Prototype Pollution  
 
-### 🌐 Languages
+### 🚩 Status
 
-```plain
-Python    10 hrs 22 mins ████████████████████ 47.5%
-C++         2 hrs 5 mins ████                  9.5%
-TypeScript  2 hrs 2 mins ███▉                  9.3%
-Markdown    1 hr 26 mins ██▊                   6.6%
-JavaScript  1 hr 25 mins ██▋                   6.5%
-Other            51 mins █▋                    4.0%
-HTML             43 mins █▍                    3.3%
-YAML             40 mins █▎                    3.1%
-C                36 mins █▏                    2.8%
-JSON             32 mins █                     2.5%
-```
-
-  </td>
-</tr>
-<tr>
-  <td valign="top" width="50%">
-
-### 🚩 Competition Writeup
-
-- [CBCTF Misc和部分Web Writeup           ](https://zhuanlan.zhihu.com/p/164896822)
-- [Writeup for DozerCTF by Metasequoia](https://zhuanlan.zhihu.com/p/148763144)
-- [BJDCTF2nd-Web Writeup              ](https://zhuanlan.zhihu.com/p/115462788)
-- [XCTF高校战“疫”网络安全分享赛Misc Writeup      ](https://zhuanlan.zhihu.com/p/111862965)
-- [V&N2020 公开赛Misc Writeup            ](https://zhuanlan.zhihu.com/p/110114375)
-
-  </td>
-  <td valign="top" width="50%">
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=yoshino-s&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshino-s&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
+</p>
 
 ### 🙌 广告位和友链招租
 
@@ -52,7 +28,3 @@ JSON             32 mins █                     2.5%
 - [域霸Ha1c9on](https://ha1c9on.top/)
 - [闭关的烨师傅](https://www.cnblogs.com/yesec)
 - 剩下的招租啊
-
-  </td>
-</tr>
-</table>
