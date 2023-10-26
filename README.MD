@@ -1,6 +1,6 @@
 ## Who am I
 
-一位啥都不怎么会的CTFer，W&M战队 成员。目前就读于华东师范大学软件工程本科三年级。
+Yoshino-s 百度基础安全部
 
 Blog: https://blog.yoshino-s.online/
 
@@ -24,7 +24,3 @@ CVE-2021-3918 json-schema Prototype Pollution
 
 ### 🙌 广告位和友链招租
 
-- [Guoke大师傅](https://guokeya.github.io/)
-- [域霸Ha1c9on](https://ha1c9on.top/)
-- [闭关的烨师傅](https://www.cnblogs.com/yesec)
-- 剩下的招租啊
